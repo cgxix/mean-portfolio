@@ -1,0 +1,25 @@
+{
+  "name": "mean-portfolio",
+  "version": "1.0.0",
+  "description": "MEAN portfolio app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgxix/mean-portfolio.git"
+  },
+  "author": "Christian Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgxix/mean-portfolio/issues"
+  },
+  "homepage": "https://github.com/cgxix/mean-portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
